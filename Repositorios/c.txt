@@ -1,0 +1,4 @@
+https://github.com/git/git
+https://github.com/torvalds/linux
+https://github.com/obsproject/obs-studio
+https://github.com/curl/curl

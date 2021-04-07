@@ -1,0 +1,4 @@
+https://github.com/rails/rails
+https://github.com/jekyll/jekyll
+https://github.com/discourse/discourse
+https://github.com/freeCodeCamp/devdocs

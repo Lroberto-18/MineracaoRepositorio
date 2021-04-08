@@ -6,7 +6,6 @@ read linguagem
 numero_linhas=$(grep -c ".*" Repositorios/$linguagem.txt)
 urls=Repositorios/$linguagem.txt
 echo "Números de repositórios: $numero_linhas ."
-cat Repositorios/$linguagem.txt
 for minerar in `cat $urls`
     do
         echo "minerando no link: $minerar"
